@@ -23,7 +23,6 @@
 .coin h1 {
     font-size: 16px;
     width: 150px;
-    margin-right: 10px;
 }
 
 .coin img {
@@ -39,25 +38,25 @@
 .coin-data {
     display: flex;
     text-align: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     width: 100%;
 }
 
 .coin-price {
-    width: 200px;
+    width: 110px;
 }
 
 .coin-volume {
-    width: 200px;
+    width: 155px;
 }
 
 .coin-marketcap {
-    width: 240px;
+    width: 230px;
 }
 
 
 .coin-percent {
-    width: 80px;
+    width: 100px;
 }
 .red {
     color: crimson;
