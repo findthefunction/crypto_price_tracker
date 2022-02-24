@@ -25,6 +25,11 @@
     width: 150px;
 }
 
+.coin h2 {
+    font-size: 10px;
+    width:auto;
+}
+
 .coin img {
     height: 30px;
     width: 30px;
